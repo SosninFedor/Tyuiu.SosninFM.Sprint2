@@ -15,7 +15,7 @@ namespace Tyuiu.SosninFM.Sprint2.Task0.V5.Lib
             res[2] = x < y;
             res[3] = x + 123 > y;
             res[4] = x + 123 <= y;
-            res[5] = x + 123 >= y;
+            res[5] = x + 123 >= y;   
             
             return res;
 

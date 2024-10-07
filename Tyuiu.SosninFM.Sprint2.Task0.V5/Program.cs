@@ -35,6 +35,7 @@ namespace Tyuiu.SosninFM.Sprint2.Task0.V5
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
+
             Console.WriteLine("X = " + x);
             Console.WriteLine("Y = " + y);
 
