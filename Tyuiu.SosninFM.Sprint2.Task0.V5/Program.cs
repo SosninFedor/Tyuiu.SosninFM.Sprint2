@@ -42,6 +42,7 @@ namespace Tyuiu.SosninFM.Sprint2.Task0.V5
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
+
             for (int i=0; i<6; i++)
             {
                 Console.WriteLine(res[i]);
