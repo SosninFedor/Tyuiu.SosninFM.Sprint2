@@ -46,7 +46,7 @@ namespace Tyuiu.SosninFM.Sprint2.Task2.V9
                 Console.WriteLine("Точка находится вне заштрихованной области");
             }
 
-
+            Console.ReadKey();
         }
     }
 }
