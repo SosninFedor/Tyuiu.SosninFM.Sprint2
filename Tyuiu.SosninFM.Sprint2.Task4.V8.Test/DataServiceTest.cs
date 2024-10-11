@@ -10,10 +10,10 @@ namespace Tyuiu.SosninFM.Sprint2.Task4.V8.Test
         public void ValidCondition1()
         {
             DataService ds = new DataService();
-            double x = 1;
-            double y = 2;
+            double x = 9;
+            double y = 4;
             double res = ds.Calculate(x, y);
-            double wait = -5;
+            double wait = 175.625;
             Assert.AreEqual(wait, res);
         }
 
@@ -24,7 +24,7 @@ namespace Tyuiu.SosninFM.Sprint2.Task4.V8.Test
             double x = 10;
             double y = 15;
             double res = ds.Calculate(x, y);
-            double wait = 231.947;
+            double wait = 215.973;
             Assert.AreEqual(wait, res);
 
         }
