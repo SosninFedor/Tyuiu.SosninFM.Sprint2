@@ -11,10 +11,10 @@ namespace Tyuiu.SosninFM.Sprint2.Task3.V23
             DataService ds = new DataService();
             Console.Title = "Спринт #1 | Выполнил: Соснин Ф. М. | АСОиУб-24-1";
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт #1                                                               *");
+            Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Базовые навыки работы в С#                                        *");
-            Console.WriteLine("* Задание #5                                                              *");
-            Console.WriteLine("* Вариант #18                                                              *");
+            Console.WriteLine("* Задание #3                                                              *");
+            Console.WriteLine("* Вариант #23                                                              *");
             Console.WriteLine("* Выполнил: Соснин Фёдор Михайлович | АСОиУб-24-1                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");

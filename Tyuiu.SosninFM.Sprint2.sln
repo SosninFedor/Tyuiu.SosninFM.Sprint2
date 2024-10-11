@@ -21,19 +21,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.SosninFM.Sprint2.Task
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{3A0BE452-1118-41F6-9814-9572DB3634EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SosninFM.Sprint2.Task2.V9.Lib", "Tyuiu.SosninFM.Sprint2.Task2.V9.Lib\Tyuiu.SosninFM.Sprint2.Task2.V9.Lib.csproj", "{09596546-5CEF-412D-8E85-7102442E22E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.SosninFM.Sprint2.Task2.V9.Lib", "Tyuiu.SosninFM.Sprint2.Task2.V9.Lib\Tyuiu.SosninFM.Sprint2.Task2.V9.Lib.csproj", "{09596546-5CEF-412D-8E85-7102442E22E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SosninFM.Sprint2.Task2.V9.Test", "Tyuiu.SosninFM.Sprint2.Task2.V9.Test\Tyuiu.SosninFM.Sprint2.Task2.V9.Test.csproj", "{FAA61777-5004-477B-8D5C-8976EF228C4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.SosninFM.Sprint2.Task2.V9.Test", "Tyuiu.SosninFM.Sprint2.Task2.V9.Test\Tyuiu.SosninFM.Sprint2.Task2.V9.Test.csproj", "{FAA61777-5004-477B-8D5C-8976EF228C4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SosninFM.Sprint2.Task2.V9", "Tyuiu.SosninFM.Sprint2.Task2.V9\Tyuiu.SosninFM.Sprint2.Task2.V9.csproj", "{16A22373-60C7-4607-A37F-C4296ABC9D4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.SosninFM.Sprint2.Task2.V9", "Tyuiu.SosninFM.Sprint2.Task2.V9\Tyuiu.SosninFM.Sprint2.Task2.V9.csproj", "{16A22373-60C7-4607-A37F-C4296ABC9D4E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{60D16037-5D44-44E3-BE72-199232CBD79C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SosninFM.Sprint2.Task3.V23", "Tyuiu.SosninFM.Sprint2.Task3.V23\Tyuiu.SosninFM.Sprint2.Task3.V23.csproj", "{BE8F68F2-ECE8-4640-BDBD-247ED87A92C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.SosninFM.Sprint2.Task3.V23", "Tyuiu.SosninFM.Sprint2.Task3.V23\Tyuiu.SosninFM.Sprint2.Task3.V23.csproj", "{BE8F68F2-ECE8-4640-BDBD-247ED87A92C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SosninFM.Sprint2.Task3.V23.Test", "Tyuiu.SosninFM.Sprint2.Task3.V23.Test\Tyuiu.SosninFM.Sprint2.Task3.V23.Test.csproj", "{C705418A-19CD-445C-A5DE-3F88565CA0E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.SosninFM.Sprint2.Task3.V23.Test", "Tyuiu.SosninFM.Sprint2.Task3.V23.Test\Tyuiu.SosninFM.Sprint2.Task3.V23.Test.csproj", "{C705418A-19CD-445C-A5DE-3F88565CA0E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SosninFM.Sprint2.Task3.V23.Lib", "Tyuiu.SosninFM.Sprint2.Task3.V23.Lib\Tyuiu.SosninFM.Sprint2.Task3.V23.Lib.csproj", "{5264345C-F388-41D4-A9C1-067FFC8DACB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.SosninFM.Sprint2.Task3.V23.Lib", "Tyuiu.SosninFM.Sprint2.Task3.V23.Lib\Tyuiu.SosninFM.Sprint2.Task3.V23.Lib.csproj", "{5264345C-F388-41D4-A9C1-067FFC8DACB0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task4", "Task4", "{B8A12AE6-9AE5-4112-A07F-B4FD6E624080}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
