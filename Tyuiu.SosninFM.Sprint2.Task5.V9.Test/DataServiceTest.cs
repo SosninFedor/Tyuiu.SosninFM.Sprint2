@@ -10,10 +10,10 @@ namespace Tyuiu.SosninFM.Sprint2.Task5.V9.Test
         public void TestMethod1()
         {
             DataService ds = new DataService();
-            int x = 5;
-            int y = 30;
-            string wait = "31 Мая";
-            var res = ds.FindDateOfNextDay(x, y);
+            int n = 08;
+            int m = 09;
+            string wait = "10.08";
+            var res = ds.FindDateOfNextDay(m, n);
             Assert.AreEqual(wait, res);
 
         }
