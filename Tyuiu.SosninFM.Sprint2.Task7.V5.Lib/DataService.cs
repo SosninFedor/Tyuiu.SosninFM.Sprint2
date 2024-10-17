@@ -12,7 +12,7 @@ namespace Tyuiu.SosninFM.Sprint2.Task7.V5.Lib
             bool a = (y >= (Math.Exp(-x)) && (y <= (Math.Pow(x, 2))));
             bool b = (y >= (Math.Pow(x, 2)) && (y <= (Math.Exp(x))));
 
-            if (a && b)
+            if (a || b)
             {
                 res = true;
             }
